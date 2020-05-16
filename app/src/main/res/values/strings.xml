@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToggleApp</string>
+    <string name="contentdescript">contentdescript</string>
+    <string name="tog_btn">test</string>
+</resources>
